@@ -23,7 +23,10 @@ linkedin: chengyudong
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a PhD student in Computer Science at UCSD. I am interested in the principles (and theories, if possible) of learning efficiency, including data efficiency and model efficiency, as well as principle-guided efficient learning algorithms in realistic applications. I believe learning efficiency defines intelligence.
+    I am a PhD student in Computer Science at UCSD. 
+  </p>
+  <p>
+    I am interested in the principles (and theories, if possible) of learning efficiency, especially data efficiency, as well as principle-guided efficient learning algorithms in realistic applications. I believe learning efficiency defines intelligence.
   </p>
   <p>
     Fun facts about me:
@@ -38,9 +41,9 @@ short_bio: >-
 
 
 
-portrait_url: /assets/images/photos/avatar.jpg
-portrait_caption: >-
-  Photo taken at Neurips 2022 in New Orleans by my friend.
+portrait_url: /assets/images/photos/avatar.png
+# portrait_caption: >-
+  # Photo taken at Neurips 2022 in New Orleans by my friend.
 
 education:
 - name: University of California, San Diego
