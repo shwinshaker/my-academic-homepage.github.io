@@ -1,5 +1,5 @@
 ---
-show: true
+show: false
 width: 4
 date: 2021-09-12 00:01:00 +0800
 height: 295px
@@ -15,3 +15,9 @@ images:
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
+
+<div>
+<p class="card-text">
+  This image shows the star history of the GitHub repository of this website.
+</p>
+</div>
